@@ -1,5 +1,6 @@
 # 🔍 obfuscation detector
 Massive update accurcy has been improved thanks to the poeple that helped me.
+If u want a private version of this model with insane accurcy dm me on discord `xss.in`
 ### 🛠️ Usage
 `python detect.py FILE_PATH`
 `node detect.js FILE_PATH`
