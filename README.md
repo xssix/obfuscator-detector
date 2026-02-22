@@ -1,7 +1,8 @@
 # 🔍 obfuscation detector
-
+Massive update accurcy has been improved thanks to the poeple that helped me.
 ### 🛠️ Usage
 `python detect.py FILE_PATH`
+`node detect.js FILE_PATH`
 
 ### 📦 Supported Obfuscators
 ```text
